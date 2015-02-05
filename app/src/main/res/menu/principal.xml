@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item android:id="@+id/action_colores"
+        android:title="@string/action_colores"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_mano_alzada"
+        android:title="@string/action_mano_alzada"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/pincel" />
+
+    <item android:id="@+id/action_cuadrado"
+        android:title="@string/action_cuadrado"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/cuadrado"/>
+
+    <item android:id="@+id/action_linea"
+        android:title="@string/action_linea"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/linea" />
+
+    <item android:id="@+id/action_circulo"
+        android:title="@string/action_circulo"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/circulo" />
+
+    <item android:id="@+id/action_goma"
+        android:title="@string/action_goma"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/goma" />
+
+    <item android:id="@+id/action_grosor"
+        android:title="@string/action_grosor"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_guardar"
+        android:title="@string/action_guardar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

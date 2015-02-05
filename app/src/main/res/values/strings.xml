@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paint</string>
+    <string name="action_colores">Paleta de colores</string>
+    <string name="action_cuadrado">Herramienta cuadrado</string>
+    <string name="action_linea">Herramienta linea</string>
+    <string name="action_circulo">Herramienta circulo</string>
+    <string name="action_mano_alzada">Mano alzada</string>
+    <string name="action_goma">Goma</string>
+    <string name="action_grosor">Grosor</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="toast_guardar">Guardado correctamente</string>
+    <string name="nombre_guardar">Nombre del archivo</string>
+    <string name="numero_grosor">Inserte grosor</string>
+
+</resources>
